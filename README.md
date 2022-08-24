@@ -5,5 +5,5 @@
 📧 | Contato: ovitormacel00@gmail.com
 🪐 | Gosto de Teorizar Sobre o Universo
 
-![Vitor Macel GitHub stats](https://github-readme-stats.vercel.app/api?username=ovitormacel&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovitormacel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img height='180em' src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ovitormacel&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api?username=ovitormacel&show_icons=true&theme=dark)"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovitormacel&layout=compact&theme=dark"/>
