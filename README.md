@@ -5,5 +5,5 @@
 📧 | Contato: ovitormacel00@gmail.com
 🪐 | Gosto de Teorizar Sobre o Universo
 
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=ovitormacel&show_icons=true&theme=dark)"/>
-<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovitormacel&layout=compact&theme=dark"/>
+<img height='180em' display="inline-block" src="https://github-readme-stats.vercel.app/api?username=ovitormacel&show_icons=true&theme=dark"/>
+<img height='180em' display="inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovitormacel&layout=compact&theme=dark"/>
