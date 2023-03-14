@@ -1,7 +1,6 @@
 ### Bem Vindo Ao Meu Perfil! Me chamo Vitor Macel 😉
 
 - 👨🏻‍💻 | Desenvolvedor Front End
-- 📚 | Estudando ReactJS
 - 📧 | Contato: ovitormacel00@gmail.com
 - 🪐 | Gosto de Teorizar Sobre o Universo
 
