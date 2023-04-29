@@ -4,9 +4,13 @@ Sou um **Desenvolvedor** apaixonado por Tecnologia focado no Desenvolvimento **W
 
 Utilizando tecnologias como Javascript, HTML, CSS, React e Figma, meu objetivo é **destacar** os projetos da **melhor** forma possível. 
 
+##
+
 <div align="left">
   <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovitormacel&layout=compact&theme=dark"/>
 </div>
+
+##
 
 ## 📚 Principais Linguagens:
 <div>
@@ -15,6 +19,8 @@ Utilizando tecnologias como Javascript, HTML, CSS, React e Figma, meu objetivo �
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
 </div>
+
+##
 
 ## 📞 Contato
 <div>
