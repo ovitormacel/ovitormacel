@@ -1,6 +1,6 @@
 # Olá, me chamo Vitor Macel. 🌹
 
-Sou um **Desenvolvedor** apaixonado por Tecnologia focado no Desenvolvimento **Web** e **Mobile**. 👨🏻‍💻
+Sou um **Desenvolvedor** apaixonado e focado no Desenvolvimento **Web** e **Mobile**. 👨🏻‍💻
 
 Utilizando tecnologias como Javascript, HTML, CSS, React e Figma, meu objetivo é **destacar** os projetos da **melhor** forma possível. 
 
