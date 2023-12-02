@@ -1,7 +1,6 @@
 # Olá, me chamo Vitor Macel. 🌹
 
 Sou um **Desenvolvedor** apaixonado e focado no Desenvolvimento **Web** e **Mobile**. 👨🏻‍💻
-
 Utilizando tecnologias como Javascript, HTML, CSS, React e Figma, meu objetivo é **destacar** os projetos da **melhor** forma possível. 
 
 ##
@@ -17,7 +16,6 @@ Utilizando tecnologias como Javascript, HTML, CSS, React e Figma, meu objetivo �
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg">
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
 </div>
 
 ##
