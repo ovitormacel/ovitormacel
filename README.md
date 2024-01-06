@@ -36,8 +36,6 @@ Meu objetivo é destacar os projetos da melhor forma possível tornando-os intui
 ## 📞 Contato
 <div>
 <a href="mailto:contato@ovitormacel.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-
 <a href="https://www.linkedin.com/in/ovitormacel?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-
 <a href="https://www.ovitormacel.com/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
 </div>
