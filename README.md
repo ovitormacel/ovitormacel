@@ -1,6 +1,7 @@
 # Seja bem-vindo(a) ao meu perfil, me chamo Vitor Macel. 🌹
 
-Sou um **Desenvolvedor** focado no Desenvolvimento Web **Front end** e apaixonado pelo JavaScript. 👨🏻‍💻
+Sou um **Desenvolvedor** focado no Desenvolvimento Web **Front end** e apaixonado por JavaScript. 👨🏻‍💻
+##
 Meu objetivo é destacar os projetos da melhor forma possível tornando-os intuitivos e lindos de se ver. 😉
 
 ##
@@ -11,7 +12,7 @@ Meu objetivo é destacar os projetos da melhor forma possível tornando-os intui
 
 ##
 
-## 📚 Principais Linguagens:
+## 🔥 Principais Tecnologias:
 <div>
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg">
 
